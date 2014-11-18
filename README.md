@@ -4,7 +4,7 @@ ant.js
 An extremely **small** (0.5kb minified / 0.3kb gzipped) and **fast** Javascript template engine working as global, AMD module and in Node.
 
 ####Features####
-#####{{# code block }}#####
+#####{{# code }}#####
 Which literally contains Javascript code.
 
 The responsiblity of keeping the logic to a minimum, and taking the necessary amount of security precautions, is up to you.
